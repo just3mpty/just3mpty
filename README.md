@@ -1,9 +1,11 @@
 ### Hi ! 🤙
 
-My name is Aurélien and I'm 26 !
+Aurélien, 26 ans !
 
-- 🌱 I’m currently looking for a Web Developper training;
-- 📫 Add me on discord : 3mpty#3920
+- 🌱 Actuellement à la recherche d'nue formation de développeur web;
+- 📫 Add discord : 3mpty#3920
+
+
 <!--
 **3mpty78/3mpty78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
