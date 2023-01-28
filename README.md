@@ -2,7 +2,7 @@
 
 Aurélien, 26 ans !
 
-- 🌱 Actuellement à la recherche d'nue formation de développeur web;
+- 🌱 Actuellement à la recherche d'une formation de développeur web;
 - 📫 Add discord : 3mpty#3920
 
 
