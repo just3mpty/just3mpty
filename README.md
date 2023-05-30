@@ -1,8 +1,8 @@
-### Hi ! 🤙
+# Hi ! 🤙
 
-Aurélien, 26 ans !
+##I'm Aurelien, 26 y/o !
 
-- 🌱 Actuellement à la recherche d'une formation de développeur web;
+- 🎒 Currently looking for a web developer training;
 - 📫 Add discord : </3mpty#3920>
 
 
