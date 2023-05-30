@@ -1,6 +1,6 @@
 # Hi ! 🤙
 
-##I'm Aurelien, 26 y/o !
+I'm Aurelien, 26 y/o !
 
 - 🎒 Currently looking for a web developer training;
 - 📫 Add discord : </3mpty#3920>
