@@ -2,8 +2,8 @@
 
 ## I'm Aurelien, 27 y/o !
 
-- 🎒 Currently looking for a web developer training;
-- 📫 Add discord : </3mpty#3920>
+- 🎒 Web developper student
+- 📫 Add me on discord : 3_mpty
 
 
 <!--
