@@ -21,4 +21,4 @@ Feel free to reach out to me to discuss collaborations, projects, or just to cha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurelien-blue)]([https://www.linkedin.com/in/aurelien](https://www.linkedin.com/in/aurelien-corre-a229461b3/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://aureliencorre.fr)
-[![Twitter](https://img.shields.io/badge/Twitter-@aurelien-blue)](https://twitter.com/just_3mpty)
+[![Twitter](https://img.shields.io/badge/Twitter-@just_3mpty-blue)](https://twitter.com/just_3mpty)
