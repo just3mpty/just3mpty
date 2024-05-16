@@ -1,22 +1,24 @@
-# Hi ! 🤙
+# Hi there! 👋
 
-## I'm Aurelien, 27 y/o !
+I'm Aurelien, a passionate web developer on a journey to learn and grow in the world of front-end development.
 
-- 🎒 Web developper student
-- 📫 Add me on discord : 3_mpty
+## About Me
 
+- 🎓 Currently studying web development, specializing in front-end technologies like React.js and Next.js.
+- 🎵 Music enthusiast and design aficionado.
 
-<!--
-**3mpty78/3mpty78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React.js, Next.js
+- 📱 React Native
+- 🛠️ Other tools: Sass, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
+- 🎨 Design: Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently looking for a Web Developer training.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: discord : 3mpty#3920
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+
+Feel free to reach out to me to discuss collaborations, projects, or just to chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurelien-blue)]([https://www.linkedin.com/in/aurelien](https://www.linkedin.com/in/aurelien-corre-a229461b3/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://aureliencorre.fr)
+[![Twitter](https://img.shields.io/badge/Twitter-@aurelien-blue)](https://twitter.com/just_3mpty)
