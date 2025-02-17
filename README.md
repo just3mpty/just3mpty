@@ -10,10 +10,10 @@ I'm Aurelien, a passionate web developer on a journey to learn and grow in the w
 ## Tech Stack
 
 - 💻 HTML, CSS, JavaScript
-- ⚛️ React.js, Next.js
+- ⚛️ React.js, Next.js, Three.js
 - 📱 React Native
 - 🛠️ Other tools: Sass, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase
-- 🎨 Design: Figma
+- 🎨 Design: Figma, Blender
 
 ## Let's Connect!
 
