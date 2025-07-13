@@ -1,25 +1,71 @@
-# Hi there! 👋
+# 👋 Salut, moi c’est Aurélien
 
-I'm Aurelien, a passionate web developer on a journey to learn and grow in the world of front-end development.
+Développeur front-end avec un goût prononcé pour les interfaces bien léchées, les animations fluides et les technos modernes.  
+J’aime autant le **design pixel-perfect** que la **logique bien pensée**, et je navigue entre front fluide, back rustique, et scripts bien taillés.
 
-## About Me
+---
 
-- 🎓 Currently studying web development, specializing in front-end technologies like React.js and Next.js.
-- 🎵 Music enthusiast and design aficionado.
+## 🔧 Stack principale
 
-## Tech Stack
+- ⚛️ **React / Next.js** (App Router, server components)
+- 🟦 **TypeScript** & JavaScript (ES6+)
+- 🎨 **Sass**, **CSS Modules**
+- 🎞️ **GSAP**, **Framer Motion**, **Lenis**
+- 🗂️ **MongoDB** avec Mongoose, **Firebase** (Auth, Firestore, Storage)
+- 🧠 **Git**, **Figma**, **Zustand**, **ShadCN**
 
-- 💻 HTML, CSS, JavaScript
-- ⚛️ React.js, Next.js, Three.js
-- 📱 React Native
-- 🛠️ Other tools: Sass, GSAP, Framer Motion, Tailwind CSS, Node.js, Express.js, MongoDB, Supabase
-- 🎨 Design: Figma, Blender
+---
 
-## Let's Connect!
+## 🧪 En ce moment je creuse :
 
-Feel free to reach out to me to discuss collaborations, projects, or just to chat!
+- 🦀 **Rust** – pour penser différemment
+- 🖥️ **PowerShell & Bash** – scripting orienté performance
+- 🧱 Architecture backend simple mais solide
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurelien-blue)]([https://www.linkedin.com/in/aurelien](https://www.linkedin.com/in/aurelien-corre-a229461b3/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://aureliencorre.fr)
-[![Instagram](https://img.shields.io/badge/Instagram-@3mpty.dev-purple)](https://instagram.com/3mpty.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@just_3mpty-blue)](https://twitter.com/just_3mpty)
+---
+
+## 🚀 Projets récents
+
+- **🧠 [keske-c](https://github.com/just3mpty/keske-c)**  
+App Tauri open-source pour diagnostiquer un système Windows (CPU, RAM, GPU, température, etc.)
+
+- **🗳️ [Raptest](https://github.com/aureliencorre/raptest)**  
+PWA de vote musicale avec Firebase Auth, Firestore & animations GSAP
+
+- **🎨 Portfolios animés**  
+Intégration de maquettes Figma, animations custom avec GSAP, Framer Motion et Firebase
+
+---
+
+## 📈 Quelques stats au cas où
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=just3mpty&show_icons=true&theme=radical&border_radius=12&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just3mpty&layout=compact&theme=radical&border_radius=12&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📦 Dernier projet publié
+
+[![Dernier repo](https://github-readme-activity-graph.cyclic.app/graph?username=just3mpty&theme=github-compact)](https://github.com/just3mpty?tab=repositories)
+
+---
+
+## 🤝 Ce que je cherche
+
+- 📚 Alternance (React / Next.js / Front)
+- 🛠️ Freelance sur des projets où design et technique se rencontrent
+- 🌍 Contributions open-source (j’adore apprendre des autres autant que partager)
+
+---
+
+## 📬 Me contacter
+
+- 🌐 [aureliencorre.fr](https://aureliencorre.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/corre-aurelien/)
+- 📸 [Instagram](https://www.instagram.com/3mpty.dev)
+
+---
+
+> _“Faut pas pousser mémé dans les pixels.”_
