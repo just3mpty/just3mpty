@@ -1,40 +1,40 @@
-# 👋 Salutations
+# 👋 Hello there
 
-Développeur front-end avec un goût prononcé pour les interfaces bien léchées, les animations fluides et les technos modernes.  
-J’aime autant le **design pixel-perfect** que la **logique bien pensée**, et je navigue entre front fluide, back rustique, et scripts bien taillés.
+Front-end developer with a strong taste for clean interfaces, smooth animations, and modern technologies.  
+I enjoy **pixel-perfect design** as much as **well-thought-out logic**.
 
 ---
 
-## 🔧 Stack principale
+## 🔧 Core Stack
 
-- ⚛️ **React / Next.js** (App Router, server components)
-- 🟦 **TypeScript** & JavaScript (ES6+)
+- ⚛️ **React / Next.js**
+- 🟦 **TypeScript** & JavaScript
 - 🎨 **Sass**, **CSS Modules**
-- 🎞️ **GSAP**, **Framer Motion**, **Lenis**
-- 🗂️ **MongoDB** avec Mongoose, **Firebase** (Auth, Firestore, Storage)
-- 🧠 **Git**, **Figma**, **Zustand**, **ShadCN**
+- 🎞️ **GSAP**, **Framer Motion**
+- 🗂️ **MongoDB** with Mongoose, **Supabase** (Auth, Storage)
+- 🧠 **Git**, **Figma**, **Zustand**
 
 ---
 
-## 🧪 En ce moment je creuse :
+## 🧪 Currently Exploring
 
-- 🦀 **Rust** – pour penser différemment
-- 🖥️ **PowerShell & Bash** – scripting orienté performance
-- 🧱 Architecture backend simple mais solide
+- 🦀 **Rust** – learning new paradigms
+- 🖥️ **PowerShell & Bash** – performance-oriented scripting
+- 🧱 Simple but solid backend architectures
 
 ---
 
-## 🚀 Projets récents
+## 🚀 Recent Projects
 
 - **🧠 [keske-c](https://github.com/just3mpty/keske-c)**  
-App Tauri open-source pour diagnostiquer un système Windows (CPU, RAM, GPU, température, etc.)
+Open-source Tauri app to diagnose Windows systems (CPU, RAM, GPU, temperature, etc.)
 
-- **🎨 Portfolios animés**  
-Intégration de maquettes Figma, animations custom avec GSAP, Framer Motion et Firebase
+- **🎨 Animated Portfolios**  
+Figma design integration with custom animations using GSAP and Framer Motion
 
 ---
 
-## 📈 Quelques stats au cas où
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=just3mpty&show_icons=true&theme=radical&border_radius=12&hide_border=true" width="48%" />
@@ -43,12 +43,11 @@ Intégration de maquettes Figma, animations custom avec GSAP, Framer Motion et F
 
 ---
 
-## 🤝 Ce que je cherche
+## 🤝 Looking for
 
-- 📚 Alternance (React / Next.js / Front)
-- 🛠️ Freelance sur des projets où design et technique se rencontrent
-- 🌍 Contributions open-source (j’adore apprendre des autres autant que partager)
+- 🛠️ Freelance opportunities where design meets engineering
+- 🌍 Open-source contributions (learning from others while sharing back)
 
 ---
 
-> _“Faut pas pousser mémé dans les pixels.”_
+> _“Faut pas pousser mémé dans les pixels”_
